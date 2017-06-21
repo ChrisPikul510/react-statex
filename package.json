@@ -1,11 +1,12 @@
 {
   "name": "react-statex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Yet Another Flux/Redux Implementation",
   "main": "lib/index.js",
   "scripts": {
     "start": "webpack-dev-server --inline --watch",
-    "build": "webpack -p --config webpack.prod.js"
+    "build": "webpack -p --config webpack.prod.js",
+    "prepublish": "npm run build"
   },
   "author": "Chris Pikul <ChrisPikul510@gmail.com>",
   "license": "MIT",
