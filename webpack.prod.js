@@ -13,7 +13,7 @@ module.exports = {
   output: {
     filename: 'index.js',
     path: resolve(__dirname, 'lib'),
-    library: 'statex',
+    library: 'react-statex',
     libraryTarget: 'commonjs2',
     umdNamedDefine: true
   },
