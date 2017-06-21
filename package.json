@@ -2,7 +2,7 @@
   "name": "react-statex",
   "version": "1.0.0",
   "description": "Yet Another Flux/Redux Implementation",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "start": "webpack-dev-server --inline --watch",
     "build": "webpack -p --config webpack.prod.js"
@@ -23,5 +23,9 @@
     "babel-preset-stage-0": "^6.24.1",
     "webpack-dev-server": "^2.4.5",
     "webpack": "^2.6.1"
+  },
+  "repository": "git://github.com/ChrisPikul510/react-statex",
+  "bugs": {
+    "url": "https://github.com/ChrisPikul510/react-statex/issues"
   }
 }
