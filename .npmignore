@@ -1,0 +1,4 @@
+.babelrc
+statics/
+src/example
+node_modules/
