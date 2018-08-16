@@ -1,6 +1,6 @@
 {
   "name": "react-statex",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Yet Another Flux/Redux Implementation",
   "main": "lib/index.js",
   "scripts": {
